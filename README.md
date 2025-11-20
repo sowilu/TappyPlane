@@ -1,9 +1,9 @@
 # TappyPlane ✈️
+[PLAY NOW!](https://lecturer-simona.itch.io/tappy-plane)
+
 ### Tappy Plane is a fast-focus, tap-to-fly mini-challenge where your tiny plane squeezes through impossible gaps
 
-[PLAY NOW!](https://lecturer-simona.itch.io/tappy-plane)
----
-### A flappy-bird-ish project forces you to wrestle with physics, timing, and game loops while the stakes stay as low as a derpy bird bonking into pipes. It’s a perfect training montage: simple enough not to break your spirit, tricky enough to sharpen your developer reflexes.
+#### A flappy-bird-ish project forces you to wrestle with physics, timing, and game loops while the stakes stay as low as a derpy bird bonking into pipes. It’s a perfect training montage: simple enough not to break your spirit, tricky enough to sharpen your developer reflexes.
 ---
 ### Assets
 - [Sprites](https://kenney.nl/assets/tappy-plane)
